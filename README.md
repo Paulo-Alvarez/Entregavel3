@@ -1,1 +1,5 @@
-# Entregavel3
+![Divisão](divisao.jfif)
+![Multiplicação](multiplicacao.jfif)
+![Soma](soma.jfif)
+![Subtração](subtracao.jfif)
+![Get](get.jfif)
